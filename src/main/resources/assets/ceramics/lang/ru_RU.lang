@@ -1,0 +1,206 @@
+itemGroup.ceramics=Ceramics
+
+# Blocks
+tile.ceramics.clay_hard.porcelain_bricks.name=Фарфоровые кирпичи
+tile.ceramics.clay_hard.dark_bricks.name=Тёмные кирпичи
+tile.ceramics.clay_hard.marine_bricks.name=Морские кирпичи
+tile.ceramics.clay_hard.golden_bricks.name=Золотые кирпичи
+tile.ceramics.clay_hard.dragon_bricks.name=Драконьи кирпичи
+tile.ceramics.clay_hard.lava_bricks.name=Лавовые кирпичи
+tile.ceramics.clay_hard.rainbow_bricks.name=Радужные кирпичи
+tile.ceramics.clay_hard.iron_bricks.name=Железные кирпичи
+
+tile.ceramics.clay_soft.porcelain.name=Необожжённый фарфор
+
+tile.ceramics.clay_slab.porcelain_bricks.name=Плита из фарфоровых кирпичей
+tile.ceramics.clay_slab.dark_bricks.name=Плита из тёмных кирпичей
+tile.ceramics.clay_slab.marine_bricks.name=Плита из морских кирпичей
+tile.ceramics.clay_slab.golden_bricks.name=Плита из золотых кирпичей
+tile.ceramics.clay_slab.dragon_bricks.name=Плита из драконьих кирпичей
+tile.ceramics.clay_slab.lava_bricks.name=Плита из лавовых кирпичей
+tile.ceramics.clay_slab.rainbow_bricks.name=Плита из радужных кирпичей
+
+tile.ceramics.porcelain_bricks_stairs.name=Ступеньки из фарфоровых кирпичей
+tile.ceramics.dark_bricks_stairs.name=Ступеньки из тёмных кирпичей
+tile.ceramics.marine_bricks_stairs.name=Ступеньки из морских кирпичей
+tile.ceramics.golden_bricks_stairs.name=Ступеньки из золотых кирпичей
+tile.ceramics.dragon_bricks_stairs.name=Ступеньки из драконьих кирпичей
+tile.ceramics.lava_bricks_stairs.name=Ступеньки из лавовых кирпичей
+tile.ceramics.rainbow_bricks_stairs.name=Ступеньки из радужных кирпичей
+
+tile.ceramics.clay_wall.bricks.name=Кирпичная ограда
+tile.ceramics.clay_wall.porcelain_bricks.name=Ограда из фарфоровых кирпичей
+tile.ceramics.clay_wall.dark_bricks.name=Ограда из тёмных кирпичей
+tile.ceramics.clay_wall.marine_bricks.name=Ограда из морских кирпичей
+tile.ceramics.clay_wall.golden_bricks.name=Ограда из золотых кирпичей
+tile.ceramics.clay_wall.dragon_bricks.name=Ограда из драконьих кирпичей
+tile.ceramics.clay_wall.lava_bricks.name=Ограда из лавовых кирпичей
+tile.ceramics.clay_wall.rainbow_bricks.name=Ограда из радужных кирпичей
+
+tile.ceramics.rainbow_clay.red.name=Радужный фарфор
+tile.ceramics.rainbow_clay.red.tooltip=Начальный цвет - красный
+tile.ceramics.rainbow_clay.orange.name=Радужный фарфор
+tile.ceramics.rainbow_clay.orange.tooltip=Начальный цвет - оранжевый
+tile.ceramics.rainbow_clay.yellow.name=Радужный фарфор
+tile.ceramics.rainbow_clay.yellow.tooltip=Начальный цвет - жёлтый
+tile.ceramics.rainbow_clay.green.name=Радужный фарфор
+tile.ceramics.rainbow_clay.green.tooltip=Начальный цвет - зелёный
+tile.ceramics.rainbow_clay.cyan.name=Радужный фарфор
+tile.ceramics.rainbow_clay.cyan.tooltip=Начальный цвет - бирюзовый
+tile.ceramics.rainbow_clay.blue.name=Радужный фарфор
+tile.ceramics.rainbow_clay.blue.tooltip=Начальный цвет - синий
+tile.ceramics.rainbow_clay.purple.name=Радужный фарфор
+tile.ceramics.rainbow_clay.purple.tooltip=Начальный цвет - фиолетовый
+tile.ceramics.rainbow_clay.magenta.name=Радужный фарфор
+tile.ceramics.rainbow_clay.magenta.tooltip=Начальный цвет - пурпурный
+
+tile.ceramics.faucet.name=Фарфоровый вентиль
+tile.ceramics.channel.name=Фарфоровый канал
+tile.ceramics.clay_bucket_block.name=Ведро из необожжённой глины
+
+# porcelain
+tile.ceramics.porcelain.black.name=Чёрный фарфор
+tile.ceramics.porcelain.red.name=Красный фарфор
+tile.ceramics.porcelain.green.name=Зелёный фарфор
+tile.ceramics.porcelain.brown.name=Коричневый фарфор
+tile.ceramics.porcelain.blue.name=Синий фарфор
+tile.ceramics.porcelain.purple.name=Фиолетовый фарфор
+tile.ceramics.porcelain.cyan.name=Бирюзовый фарфор
+tile.ceramics.porcelain.silver.name=Светло-серый фарфор
+tile.ceramics.porcelain.gray.name=Серый фарфор
+tile.ceramics.porcelain.pink.name=Розовый фарфор
+tile.ceramics.porcelain.lime.name=Лаймовый фарфор
+tile.ceramics.porcelain.yellow.name=Жёлтый фарфор
+tile.ceramics.porcelain.light_blue.name=Голубой фарфор
+tile.ceramics.porcelain.magenta.name=Пурпурный фарфор
+tile.ceramics.porcelain.orange.name=Оранжевый фарфор
+tile.ceramics.porcelain.white.name=Белый фарфор
+
+tile.ceramics.clay_barrel_unfired.clay.name=Бочка из необожжённой глины
+tile.ceramics.clay_barrel_unfired.clay_extension.name=Дополнение бочки из необожжённой глины
+tile.ceramics.clay_barrel_unfired.porcelain.name=Бочка из необожжённого фарфора
+tile.ceramics.clay_barrel_unfired.porcelain_extension.name=Дополнение бочки из необожжённого фарфора
+
+tile.ceramics.clay_barrel.barrel.name=Глиняная бочка
+tile.ceramics.clay_barrel.barrel_extension.name=Дополнение глинянной бочки
+
+tile.ceramics.clay_barrel_stained.black.name=Чёрная глиняная бочка
+tile.ceramics.clay_barrel_stained.red.name=Красная глиняная бочка
+tile.ceramics.clay_barrel_stained.green.name=Зелёная глиняная бочка
+tile.ceramics.clay_barrel_stained.brown.name=Коричневая глиняная бочка
+tile.ceramics.clay_barrel_stained.blue.name=Синяя глиняная бочка
+tile.ceramics.clay_barrel_stained.purple.name=Фиолетовая глиняная бочка
+tile.ceramics.clay_barrel_stained.cyan.name=Бирюзовая глиняная бочка
+tile.ceramics.clay_barrel_stained.silver.name=Светло-серая глиняная бочка
+tile.ceramics.clay_barrel_stained.gray.name=Серая глиняная бочка
+tile.ceramics.clay_barrel_stained.pink.name=Розовая глиняная бочка
+tile.ceramics.clay_barrel_stained.lime.name=Лаймовая глиняная бочка
+tile.ceramics.clay_barrel_stained.yellow.name=Жёлтая глиняная бочка
+tile.ceramics.clay_barrel_stained.lightBlue.name=Голубая глиняная бочка
+tile.ceramics.clay_barrel_stained.magenta.name=Пурпурная глиняная бочка
+tile.ceramics.clay_barrel_stained.orange.name=Оранжевая глиняная бочка
+tile.ceramics.clay_barrel_stained.white.name=Белая глиняная бочка
+
+tile.ceramics.clay_barrel_stained_extension.black.name=Чёрное дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.red.name=Красное дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.green.name=Зелёное дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.brown.name=Коричневое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.blue.name=Синее дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.purple.name=Фиолетовое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.cyan.name=Бирюзовое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.silver.name=Светло-серое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.gray.name=Серое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.pink.name=Розовое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.lime.name=Лаймовое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.yellow.name=Жёлтое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.lightBlue.name=Голубое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.magenta.name=Пурпурное дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.orange.name=Оранжевое дополнение глиняной бочки
+tile.ceramics.clay_barrel_stained_extension.white.name=Белое дополнение глиняной бочки
+
+tile.ceramics.porcelain_barrel.black.name=Чёрная фарфоровая бочка
+tile.ceramics.porcelain_barrel.red.name=Красная фарфоровая бочка
+tile.ceramics.porcelain_barrel.green.name=Зелёная фарфоровая бочка
+tile.ceramics.porcelain_barrel.brown.name=Коричневая фарфоровая бочка
+tile.ceramics.porcelain_barrel.blue.name=Синяя фарфоровая бочка
+tile.ceramics.porcelain_barrel.purple.name=Фиолетовая фарфоровая бочка
+tile.ceramics.porcelain_barrel.cyan.name=Бирюзовая фарфоровая бочка
+tile.ceramics.porcelain_barrel.silver.name=Светло-серая фарфоровая бочка
+tile.ceramics.porcelain_barrel.gray.name=Серая фарфоровая бочка
+tile.ceramics.porcelain_barrel.pink.name=Розовая фарфоровая бочка
+tile.ceramics.porcelain_barrel.lime.name=Лаймовая фарфоровая бочка
+tile.ceramics.porcelain_barrel.yellow.name=Жёлтая фарфоровая бочка
+tile.ceramics.porcelain_barrel.lightBlue.name=Голубая фарфоровая бочка
+tile.ceramics.porcelain_barrel.magenta.name=Пурпурная фарфоровая бочка
+tile.ceramics.porcelain_barrel.orange.name=Оранжевая фарфоровая бочка
+tile.ceramics.porcelain_barrel.white.name=Белая фарфоровая бочка
+
+tile.ceramics.porcelain_barrel_extension.black.name=Чёрное дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.red.name=Красное дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.green.name=Зелёное дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.brown.name=Коричневое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.blue.name=Синее дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.purple.name=Фиолетовое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.cyan.name=Бирюзовое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.silver.name=Светло-серое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.gray.name=Серое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.pink.name=Розовое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.lime.name=Лаймовое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.yellow.name=Жёлтое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.lightBlue.name=Голубое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.magenta.name=Пурпурное дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.orange.name=Оранжевое дополнение фарфоровой бочки
+tile.ceramics.porcelain_barrel_extension.white.name=Белое дополнение фарфоровой бочки
+
+
+# Items
+
+item.ceramics.unfired.bucket.name=Ведро из необожжённой глины
+item.ceramics.clay_bucket.name=Глиняное ведро - %s
+item.ceramics.clay_bucket.empty.name=Глиняное ведро
+item.ceramics.clay_bucket.milk.name=Глиняное ведро молока
+item.ceramics.clay_bucket.gravel.name=Глиняное ведро гравия
+item.ceramics.clay_bucket.sand.name=Глиняное ведро песка
+item.ceramics.clay_bucket.red_sand.name=Глиняное ведро красного песка
+
+item.ceramics.unfired.shears.name=Ножницы из необожжёной глины
+item.ceramics.clay_shears.name=Глиняные ножницы
+
+item.ceramics.unfired.porcelain.name=Необожжёный фарфор
+item.ceramics.unfired.porcelain_brick.name=Фарфоровый кирпич
+
+item.ceramics.unfired.clay_plate.name=Глиняная пластина
+item.ceramics.unfired.clay_plate_raw.name=Пластина из необожжённой глины
+
+item.ceramics.clay_helmet_raw.name=Шлем из необожжённой глины
+item.ceramics.clay_chestplate_raw.name=Нагрудник из необожжённой глины
+item.ceramics.clay_leggings_raw.name=Поножи из необожжённой глины
+item.ceramics.clay_boots_raw.name=Ботинки из необожжённой глины
+item.ceramics.clay_helmet.name=Глиняный шлем
+item.ceramics.clay_chestplate.name=Глиняный нагрудник
+item.ceramics.clay_leggings.name=Глиняные поножи 
+item.ceramics.clay_boots.name=Глиняны ботинки
+
+item.ceramics.unfired.barrel.name=Бочка из необожжённой глины
+item.ceramics.unfired.barrel_extension.name=Дополнение из необожжённой глины
+item.ceramics.unfired.barrel_porcelain.name=Бочка из необожжённого фарфора
+item.ceramics.unfired.barrel_porcelain_extension.name=Дополнение из необожжённого фарфора
+
+# Messages
+ceramics.barrel.fluid.empty=Бочка пуста
+ceramics.barrel.fluid.amount=Бочка содержит: %smb %s
+
+ceramics.channel.connected.in=Назначить сторону для втекания внутрь
+ceramics.channel.connected.out=Назначить сторону для вытекания наружу
+ceramics.channel.connected.none=Запретить течь в сторону
+ceramics.channel.connected_down.allow=Разрешить течь вниз
+ceramics.channel.connected_down.disallow=Запретить течь вниз
+
+# JEI Descriptions
+ceramics.jei.bucket=Глиняные вёдра являются альтернативой обычных железных вёдер на ранней стадии игры. Как и их железные аналоги, они могут использоваться для транспортировки жидкостей, но они будут разрушаться после выливания горячей жидкости.
+ceramics.jei.barrel.base=Бочки представляют собой простой блок для хранения жидкости, вмещающий до %s вёдер. При разрушении бочки жидкость будет потеряна.
+ceramics.jei.barrel.extension=Дополнения бочки можно разместить над бочками, чтобы увеличить их вместимость. Одно дополнение увеличивает вместимость на %s вёдер. Дополнения можно устанавливать одно на другое практически до неограниченное высоты.
+ceramics.jei.barrel.porcelain.base=Фарфоровые бочки являются улучшенной версией глиняных бочек и вмещают в себя %s вёдер. Как и их глиняный аналог, при разрушении они будут терять свою жидкость.
+ceramics.jei.barrel.porcelain.extension=Фарфоровые дополнения бочки используются для увеличения вместимости фарфоровых бочек. Функционируют аналогично глиняным дополнениям, за исключением того, они добавляют %s к вместимости. Глиняные и фарфоровые дополнения и бочки нельзя смешивать.
+ceramics.jei.faucet=Фарфоровые вентили могут использоваться для извлечения жидкости из одной бочки в другую. Они могут быть расположены сбоку или снизу бочки, и могут быть активированы правой кнопкой мыши либо сигналом редстоуна. Вентиль будет извлекать жидкость, пока она не закончится, либо пока не заполнится другая бочка.
+ceramics.jei.channel=Фарфоровые каналы могут использоваться для транспортировки жидкостей. Они заполняются при помощи вентиля и автоматически перемещают жидкость в примыкающие бочки или другие каналы. После присоединения каналов к сторонам, либо основанию, можно настроить режим их работы на вливание, выливание или отключение, щёлкнув правой кнопкой мыши по каналу.
